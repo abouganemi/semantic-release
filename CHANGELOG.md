@@ -1,0 +1,14 @@
+# 1.0.0 (2021-10-15)
+
+
+### Bug Fixes
+
+* **semantic-release:** correct branch ([dccc5af](https://github.com/abouganemi/semantic-release/commit/dccc5af0ba33fabfeccc3fa0a854bcf817b24f1b))
+* **semantic-release:** test ([6eb1ca0](https://github.com/abouganemi/semantic-release/commit/6eb1ca06874f4ce96f5057a8b6db41ec35301287))
+* **semantic-release:** Test ([7294a48](https://github.com/abouganemi/semantic-release/commit/7294a48e03d02d7c579aecbaa99153a77d86e1ea))
+* **semantic-release:** test job ([58b2b4b](https://github.com/abouganemi/semantic-release/commit/58b2b4b7e3cc24e93ab4711445bdc4739ba8754b))
+* **semantic-release:** Test job ([90e5fb1](https://github.com/abouganemi/semantic-release/commit/90e5fb1c8e211fb67f35137e913d207cfc9b84bf))
+* **semantic-release:** Test job ([9d2f77d](https://github.com/abouganemi/semantic-release/commit/9d2f77dfdf10f53b80c29088a6612c40913d589c))
+* **semantic-release:** Test Job ([85e4b37](https://github.com/abouganemi/semantic-release/commit/85e4b3791c4622ff59cd25d2c63919a418d44c6d))
+* **test:** semantic release ([8a6ea10](https://github.com/abouganemi/semantic-release/commit/8a6ea101a177bdcc73a21e87a4afd88f5f6e72c8))
+* **test:** testing git workflow ([be3c1e2](https://github.com/abouganemi/semantic-release/commit/be3c1e273bfe10e28d06a3752178b26a5d78bdc6))
