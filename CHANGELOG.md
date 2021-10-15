@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/abouganemi/semantic-release/compare/v1.1.2...v2.0.0) (2021-10-15)
+
+
+* Merge pull request #16 from abouganemi/abouganemi-patch-1 ([d7b9f54](https://github.com/abouganemi/semantic-release/commit/d7b9f5494f7aee0a960780c2123edca19bc828a5)), closes [#16](https://github.com/abouganemi/semantic-release/issues/16)
+
+
+### BREAKING CHANGES
+
+* release of version 2
+
 ## [1.1.2](https://github.com/abouganemi/semantic-release/compare/v1.1.1...v1.1.2) (2021-10-15)
 
 
