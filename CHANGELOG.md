@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/abouganemi/semantic-release/compare/v1.1.0...v1.1.1) (2021-10-15)
+
+
+### Performance Improvements
+
+* **calls:** increased calls per second rate ([8da2462](https://github.com/abouganemi/semantic-release/commit/8da24624b6acf8c34636aabdac7d7d84605705b5))
+
 # [1.1.0](https://github.com/abouganemi/semantic-release/compare/v1.0.0...v1.1.0) (2021-10-15)
 
 
