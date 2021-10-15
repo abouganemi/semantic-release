@@ -16,8 +16,6 @@ jobs:
           node-version: 14
       - name: Install dependencies
         run: |
-          apt-get update
-          apt-get install -y --no-install-recommends git-core ca-certificates
           npm ci
           npm install -g semantic-release @semantic-release/gitlab @semantic-release/git @semantic-release/changelog
       - name: Release
