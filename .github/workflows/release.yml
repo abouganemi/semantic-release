@@ -12,7 +12,7 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 16
-      - run: npm install -g semantic-release @semantic-release/gitub @semantic-release/git @semantic-release/changelog 
+      - run: npm install -g semantic-release @semantic-release/github @semantic-release/git @semantic-release/changelog 
       - run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
