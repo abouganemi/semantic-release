@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/abouganemi/semantic-release/compare/v1.1.1...v1.1.2) (2021-10-15)
+
+
+### Bug Fixes
+
+* **race-condition:** better looping ([ba129fd](https://github.com/abouganemi/semantic-release/commit/ba129fda1aa62454e670700ed9a5cd8dac6bc9fa))
+
 ## [1.1.1](https://github.com/abouganemi/semantic-release/compare/v1.1.0...v1.1.1) (2021-10-15)
 
 
