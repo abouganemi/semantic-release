@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/abouganemi/semantic-release/compare/v1.0.0...v1.1.0) (2021-10-15)
+
+
+### Features
+
+* **api:** updated endpoint ([7435ea3](https://github.com/abouganemi/semantic-release/commit/7435ea383c0741b0ceba40ce582c0d7249f8c478))
+
 # 1.0.0 (2021-10-15)
 
 
